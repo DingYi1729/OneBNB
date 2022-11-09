@@ -13,6 +13,7 @@ This file includes simulation and case study for 1-BNB method.
 - Simu_OneBNB_B1000.m conducts the adjacency matrix completion process of 1-BNB method for simuation study. We take power-law degree distribution with $\gamma = 3$ as example.
 - OneBNB.m conducts the adjacency matrix completion process of 1-BNB for case study. We take BK social network as example.
 - The other .m file are the necessary functions needed for adjacency matrix completion. 
+- We want to thank <i><b>Davenport, M. A., Plan, Y., Van Den Berg, E., & Wootters, M. (2014). 1-bit matrix completion. Information and Inference: A Journal of the IMA, 3(3), 189-223</b></i> for providing the matlab toolbox of 1-bit matrix completion.
 
 ### Data 
 Data.zip contains some data needed for the demonstration. Please unzip it before running any code.
