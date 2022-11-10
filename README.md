@@ -16,4 +16,4 @@ This file includes simulation and case study for 1-BNB method.
 - We want to thank <i><b>Davenport, M. A., Plan, Y., Van Den Berg, E., & Wootters, M. (2014). 1-bit matrix completion. Information and Inference: A Journal of the IMA, 3(3), 189-223</b></i> for providing the matlab toolbox of 1-bit matrix completion.
 
 ### Data 
-Data1.zip and Data2.zip contains some data needed for the demonstration. Please unzip them and put them under in the same file, say, Data, before running any code.
+Data1.zip and Data2.zip contains some data needed for the demonstration. Please unzip them and put them under the same file, say, Data, before running any code.
